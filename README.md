@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Harsh jain</h1>
-<h3 align="center">A passionate full stack developer from India , with more than one year of experience currently working with one of the MNCS in Healthcare domain providing service and contributing in development activity, building and maintaining web application.My technologies stack includes C#,SQL,ASP.NET & .NET Core MVC Framework,Javascripts,Selenium,Angular.</h3>
+<h3 align="center">Full Stack Software Engineer with experience designing and delivering secure, scalable enterprise applications using C#, .NET Core, Angular, Azure, and microservices. Expertise in OAuth 2.0, SAML SSO, RBAC, REST APIs, SQL Server, and Entity Framework Core, with a strong focus on security and performance. Experienced in solution design, CI/CD with Azure DevOps, cloud deployment, database optimization, and production support. Proven ability to deliver end-to-end solutions, development, deployment, and business-critical healthcare workflows, while collaborating with cross-functional teams.    </h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/126333273/233627959-df428a41-e423-45d5-8200-1617a4132580.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kooddammmn&label=Profile%20views&color=0e75b6&style=flat" alt="kooddammmn" /> </p>
